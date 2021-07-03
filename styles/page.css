@@ -1,0 +1,15 @@
+.page {
+  background-color: gray;
+}
+
+.page-index {
+  background-color: darkblue;
+  width: 304px;
+  color: white;
+  border-radius: 16px;
+  border: 1px solid
+}
+
+p {
+  color: white;
+}
